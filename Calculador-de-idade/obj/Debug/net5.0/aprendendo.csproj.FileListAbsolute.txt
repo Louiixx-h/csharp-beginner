@@ -1,0 +1,16 @@
+/home/Louiixx-h/csharp/aprendendo/bin/Debug/net5.0/aprendendo
+/home/Louiixx-h/csharp/aprendendo/bin/Debug/net5.0/aprendendo.deps.json
+/home/Louiixx-h/csharp/aprendendo/bin/Debug/net5.0/aprendendo.runtimeconfig.json
+/home/Louiixx-h/csharp/aprendendo/bin/Debug/net5.0/aprendendo.runtimeconfig.dev.json
+/home/Louiixx-h/csharp/aprendendo/bin/Debug/net5.0/aprendendo.dll
+/home/Louiixx-h/csharp/aprendendo/bin/Debug/net5.0/ref/aprendendo.dll
+/home/Louiixx-h/csharp/aprendendo/bin/Debug/net5.0/aprendendo.pdb
+/home/Louiixx-h/csharp/aprendendo/obj/Debug/net5.0/aprendendo.csprojAssemblyReference.cache
+/home/Louiixx-h/csharp/aprendendo/obj/Debug/net5.0/aprendendo.GeneratedMSBuildEditorConfig.editorconfig
+/home/Louiixx-h/csharp/aprendendo/obj/Debug/net5.0/aprendendo.AssemblyInfoInputs.cache
+/home/Louiixx-h/csharp/aprendendo/obj/Debug/net5.0/aprendendo.AssemblyInfo.cs
+/home/Louiixx-h/csharp/aprendendo/obj/Debug/net5.0/aprendendo.csproj.CoreCompileInputs.cache
+/home/Louiixx-h/csharp/aprendendo/obj/Debug/net5.0/aprendendo.dll
+/home/Louiixx-h/csharp/aprendendo/obj/Debug/net5.0/ref/aprendendo.dll
+/home/Louiixx-h/csharp/aprendendo/obj/Debug/net5.0/aprendendo.pdb
+/home/Louiixx-h/csharp/aprendendo/obj/Debug/net5.0/aprendendo.genruntimeconfig.cache

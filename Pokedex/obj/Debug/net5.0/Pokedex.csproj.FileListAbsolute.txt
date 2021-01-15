@@ -1,0 +1,16 @@
+/home/Louiixx-h/csharp/Pokedex/bin/Debug/net5.0/Pokedex
+/home/Louiixx-h/csharp/Pokedex/bin/Debug/net5.0/Pokedex.deps.json
+/home/Louiixx-h/csharp/Pokedex/bin/Debug/net5.0/Pokedex.runtimeconfig.json
+/home/Louiixx-h/csharp/Pokedex/bin/Debug/net5.0/Pokedex.runtimeconfig.dev.json
+/home/Louiixx-h/csharp/Pokedex/bin/Debug/net5.0/Pokedex.dll
+/home/Louiixx-h/csharp/Pokedex/bin/Debug/net5.0/ref/Pokedex.dll
+/home/Louiixx-h/csharp/Pokedex/bin/Debug/net5.0/Pokedex.pdb
+/home/Louiixx-h/csharp/Pokedex/obj/Debug/net5.0/Pokedex.csprojAssemblyReference.cache
+/home/Louiixx-h/csharp/Pokedex/obj/Debug/net5.0/Pokedex.GeneratedMSBuildEditorConfig.editorconfig
+/home/Louiixx-h/csharp/Pokedex/obj/Debug/net5.0/Pokedex.AssemblyInfoInputs.cache
+/home/Louiixx-h/csharp/Pokedex/obj/Debug/net5.0/Pokedex.AssemblyInfo.cs
+/home/Louiixx-h/csharp/Pokedex/obj/Debug/net5.0/Pokedex.csproj.CoreCompileInputs.cache
+/home/Louiixx-h/csharp/Pokedex/obj/Debug/net5.0/Pokedex.dll
+/home/Louiixx-h/csharp/Pokedex/obj/Debug/net5.0/ref/Pokedex.dll
+/home/Louiixx-h/csharp/Pokedex/obj/Debug/net5.0/Pokedex.pdb
+/home/Louiixx-h/csharp/Pokedex/obj/Debug/net5.0/Pokedex.genruntimeconfig.cache
